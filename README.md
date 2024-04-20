@@ -1,5 +1,7 @@
-## Tanıtım
-Şarap kalitesi makine öğrenmesi tahmin projesi
+## Projenin Amacı
+Projenin amacı bir şarabın kimyasal özelliklerini baz alarak onun kalitesini tahmin edecek bir makine öğrenmesi modeli oluşturmaktır. 
+
+Böylece şarap imalathanelerinin kalite kontrol sistemlerini geliştirmiş olacak ve yüksek kaliteli şarapları doğru tespit ederek ve yüksek fiyatlandırarak şirketlerin karını arttırmış olacağız . 
 
 ## Çalışma Ortamı
 
